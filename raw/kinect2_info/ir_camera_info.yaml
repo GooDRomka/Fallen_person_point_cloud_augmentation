@@ -1,0 +1,16 @@
+frame_id: /kinect2_head_ir_optical_frame
+height: 424
+width: 512
+distortion_model: plumb_bob
+D: [0, 0, 0, 0, 0]
+K: [363.2384033203125, 0, 257.50048828125, 0, 363.2384033203125, 203.2088928222656, 0, 0, 1]
+R: [1, 0, 0, 0, 1, 0, 0, 0, 1]
+P: [363.2384033203125, 0, 257.50048828125, 0, 0, 363.2384033203125, 203.2088928222656, 0, 0, 0, 1, 0]
+binning_x: 0
+binning_y: 0
+roi:
+  x_offset: 0
+  y_offset: 0
+  height: 0
+  width: 0
+  do_rectify: False

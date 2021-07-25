@@ -1,0 +1,2248 @@
+camera_info:
+  - {type: "image_camera_info", timestamp: 1424958079.956462702, filename: "image_camera_info.yaml"}
+  - {type: "ir_camera_info", timestamp: 1424958079.956462702, filename: "ir_camera_info.yaml"}
+data:
+  - index: 1
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958079.956462702, filename: "image_0001.png"}
+      - {type: "point_cloud", timestamp: 1424958079.956462080, filename: "point_cloud_0001.pcd"}
+  - index: 2
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958087.658230826, filename: "image_0002.png"}
+      - {type: "point_cloud", timestamp: 1424958087.658230016, filename: "point_cloud_0002.pcd"}
+  - index: 3
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958124.122974727, filename: "image_0003.png"}
+      - {type: "point_cloud", timestamp: 1424958124.122973952, filename: "point_cloud_0003.pcd"}
+  - index: 4
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958130.033765768, filename: "image_0004.png"}
+      - {type: "point_cloud", timestamp: 1424958130.033765888, filename: "point_cloud_0004.pcd"}
+  - index: 5
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958145.170722805, filename: "image_0005.png"}
+      - {type: "point_cloud", timestamp: 1424958145.129910016, filename: "point_cloud_0005.pcd"}
+  - index: 6
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958153.396291548, filename: "image_0006.png"}
+      - {type: "point_cloud", timestamp: 1424958153.396291072, filename: "point_cloud_0006.pcd"}
+  - index: 7
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958178.222041127, filename: "image_0007.png"}
+      - {type: "point_cloud", timestamp: 1424958178.187780096, filename: "point_cloud_0007.pcd"}
+  - index: 8
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958183.332871751, filename: "image_0008.png"}
+      - {type: "point_cloud", timestamp: 1424958183.296254976, filename: "point_cloud_0008.pcd"}
+  - index: 9
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958192.654251853, filename: "image_0009.png"}
+      - {type: "point_cloud", timestamp: 1424958192.654251008, filename: "point_cloud_0009.pcd"}
+  - index: 10
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958197.656533408, filename: "image_0010.png"}
+      - {type: "point_cloud", timestamp: 1424958197.621818112, filename: "point_cloud_0010.pcd"}
+  - index: 11
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958246.624662850, filename: "image_0011.png"}
+      - {type: "point_cloud", timestamp: 1424958246.624662016, filename: "point_cloud_0011.pcd"}
+  - index: 12
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958256.721343742, filename: "image_0012.png"}
+      - {type: "point_cloud", timestamp: 1424958256.721342976, filename: "point_cloud_0012.pcd"}
+  - index: 13
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958318.021422713, filename: "image_0013.png"}
+      - {type: "point_cloud", timestamp: 1424958318.021422080, filename: "point_cloud_0013.pcd"}
+  - index: 14
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958324.566853278, filename: "image_0014.png"}
+      - {type: "point_cloud", timestamp: 1424958324.529072896, filename: "point_cloud_0014.pcd"}
+  - index: 15
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958333.763970777, filename: "image_0015.png"}
+      - {type: "point_cloud", timestamp: 1424958333.763970048, filename: "point_cloud_0015.pcd"}
+  - index: 16
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958339.889059086, filename: "image_0016.png"}
+      - {type: "point_cloud", timestamp: 1424958339.857088000, filename: "point_cloud_0016.pcd"}
+  - index: 17
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958347.891561222, filename: "image_0017.png"}
+      - {type: "point_cloud", timestamp: 1424958347.891560960, filename: "point_cloud_0017.pcd"}
+  - index: 18
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958352.802912704, filename: "image_0018.png"}
+      - {type: "point_cloud", timestamp: 1424958352.802912000, filename: "point_cloud_0018.pcd"}
+  - index: 19
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958364.921612426, filename: "image_0019.png"}
+      - {type: "point_cloud", timestamp: 1424958364.921612032, filename: "point_cloud_0019.pcd"}
+  - index: 20
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958383.433987283, filename: "image_0020.png"}
+      - {type: "point_cloud", timestamp: 1424958383.433987072, filename: "point_cloud_0020.pcd"}
+  - index: 21
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958402.965301805, filename: "image_0021.png"}
+      - {type: "point_cloud", timestamp: 1424958402.965300992, filename: "point_cloud_0021.pcd"}
+  - index: 22
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958411.094758062, filename: "image_0022.png"}
+      - {type: "point_cloud", timestamp: 1424958411.094757888, filename: "point_cloud_0022.pcd"}
+  - index: 23
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958419.421689891, filename: "image_0023.png"}
+      - {type: "point_cloud", timestamp: 1424958419.388986880, filename: "point_cloud_0023.pcd"}
+  - index: 24
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958424.632562851, filename: "image_0024.png"}
+      - {type: "point_cloud", timestamp: 1424958424.599868928, filename: "point_cloud_0024.pcd"}
+  - index: 25
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958457.468100682, filename: "image_0025.png"}
+      - {type: "point_cloud", timestamp: 1424958457.468100096, filename: "point_cloud_0025.pcd"}
+  - index: 26
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958463.689173785, filename: "image_0026.png"}
+      - {type: "point_cloud", timestamp: 1424958463.689172992, filename: "point_cloud_0026.pcd"}
+  - index: 27
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958471.689586676, filename: "image_0027.png"}
+      - {type: "point_cloud", timestamp: 1424958471.689585920, filename: "point_cloud_0027.pcd"}
+  - index: 28
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958476.898608212, filename: "image_0028.png"}
+      - {type: "point_cloud", timestamp: 1424958476.898608128, filename: "point_cloud_0028.pcd"}
+  - index: 29
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958483.722233731, filename: "image_0029.png"}
+      - {type: "point_cloud", timestamp: 1424958483.688980992, filename: "point_cloud_0029.pcd"}
+  - index: 30
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958491.221322131, filename: "image_0030.png"}
+      - {type: "point_cloud", timestamp: 1424958491.221321984, filename: "point_cloud_0030.pcd"}
+  - index: 31
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958505.956858500, filename: "image_0031.png"}
+      - {type: "point_cloud", timestamp: 1424958505.956858112, filename: "point_cloud_0031.pcd"}
+  - index: 32
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958511.165848007, filename: "image_0032.png"}
+      - {type: "point_cloud", timestamp: 1424958511.165848064, filename: "point_cloud_0032.pcd"}
+  - index: 33
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958517.565217111, filename: "image_0033.png"}
+      - {type: "point_cloud", timestamp: 1424958517.565217024, filename: "point_cloud_0033.pcd"}
+  - index: 34
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958523.263301109, filename: "image_0034.png"}
+      - {type: "point_cloud", timestamp: 1424958523.263301120, filename: "point_cloud_0034.pcd"}
+  - index: 35
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958529.402607915, filename: "image_0035.png"}
+      - {type: "point_cloud", timestamp: 1424958529.366270976, filename: "point_cloud_0035.pcd"}
+  - index: 36
+    distance: 2
+    info: "p000"
+    acquired:
+      - {type: "image", timestamp: 1424958534.793671330, filename: "image_0036.png"}
+      - {type: "point_cloud", timestamp: 1424958534.793670912, filename: "point_cloud_0036.pcd"}
+  - index: 37
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958620.529173918, filename: "image_0037.png"}
+      - {type: "point_cloud", timestamp: 1424958620.529174016, filename: "point_cloud_0037.pcd"}
+  - index: 38
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958625.730867451, filename: "image_0038.png"}
+      - {type: "point_cloud", timestamp: 1424958625.730866944, filename: "point_cloud_0038.pcd"}
+  - index: 39
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958632.362120847, filename: "image_0039.png"}
+      - {type: "point_cloud", timestamp: 1424958632.328660992, filename: "point_cloud_0039.pcd"}
+  - index: 40
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958636.938034250, filename: "image_0040.png"}
+      - {type: "point_cloud", timestamp: 1424958636.938033920, filename: "point_cloud_0040.pcd"}
+  - index: 41
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958643.589709396, filename: "image_0041.png"}
+      - {type: "point_cloud", timestamp: 1424958643.557830912, filename: "point_cloud_0041.pcd"}
+  - index: 42
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958647.987951843, filename: "image_0042.png"}
+      - {type: "point_cloud", timestamp: 1424958647.987951104, filename: "point_cloud_0042.pcd"}
+  - index: 43
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958689.628231600, filename: "image_0043.png"}
+      - {type: "point_cloud", timestamp: 1424958689.628230912, filename: "point_cloud_0043.pcd"}
+  - index: 44
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958694.429349111, filename: "image_0044.png"}
+      - {type: "point_cloud", timestamp: 1424958694.429349120, filename: "point_cloud_0044.pcd"}
+  - index: 45
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958702.065003458, filename: "image_0045.png"}
+      - {type: "point_cloud", timestamp: 1424958702.065003008, filename: "point_cloud_0045.pcd"}
+  - index: 46
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958706.889432626, filename: "image_0046.png"}
+      - {type: "point_cloud", timestamp: 1424958706.856143872, filename: "point_cloud_0046.pcd"}
+  - index: 47
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958713.988999546, filename: "image_0047.png"}
+      - {type: "point_cloud", timestamp: 1424958713.988998912, filename: "point_cloud_0047.pcd"}
+  - index: 48
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958718.889496305, filename: "image_0048.png"}
+      - {type: "point_cloud", timestamp: 1424958718.889496064, filename: "point_cloud_0048.pcd"}
+  - index: 49
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958757.663549560, filename: "image_0049.png"}
+      - {type: "point_cloud", timestamp: 1424958757.628707072, filename: "point_cloud_0049.pcd"}
+  - index: 50
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958762.039204138, filename: "image_0050.png"}
+      - {type: "point_cloud", timestamp: 1424958762.039204096, filename: "point_cloud_0050.pcd"}
+  - index: 51
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958772.889490094, filename: "image_0051.png"}
+      - {type: "point_cloud", timestamp: 1424958772.856468992, filename: "point_cloud_0051.pcd"}
+  - index: 52
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958777.288167034, filename: "image_0052.png"}
+      - {type: "point_cloud", timestamp: 1424958777.288166912, filename: "point_cloud_0052.pcd"}
+  - index: 53
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958785.188739280, filename: "image_0053.png"}
+      - {type: "point_cloud", timestamp: 1424958785.188739072, filename: "point_cloud_0053.pcd"}
+  - index: 54
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958789.988658173, filename: "image_0054.png"}
+      - {type: "point_cloud", timestamp: 1424958789.988657920, filename: "point_cloud_0054.pcd"}
+  - index: 55
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958809.426852897, filename: "image_0055.png"}
+      - {type: "point_cloud", timestamp: 1424958809.426852096, filename: "point_cloud_0055.pcd"}
+  - index: 56
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958815.028882657, filename: "image_0056.png"}
+      - {type: "point_cloud", timestamp: 1424958815.028881920, filename: "point_cloud_0056.pcd"}
+  - index: 57
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958821.955906062, filename: "image_0057.png"}
+      - {type: "point_cloud", timestamp: 1424958821.955906048, filename: "point_cloud_0057.pcd"}
+  - index: 58
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958827.456529764, filename: "image_0058.png"}
+      - {type: "point_cloud", timestamp: 1424958827.456528896, filename: "point_cloud_0058.pcd"}
+  - index: 59
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958835.661938049, filename: "image_0059.png"}
+      - {type: "point_cloud", timestamp: 1424958835.661937920, filename: "point_cloud_0059.pcd"}
+  - index: 60
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958840.365127030, filename: "image_0060.png"}
+      - {type: "point_cloud", timestamp: 1424958840.365126912, filename: "point_cloud_0060.pcd"}
+  - index: 61
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958878.422043936, filename: "image_0061.png"}
+      - {type: "point_cloud", timestamp: 1424958878.422043904, filename: "point_cloud_0061.pcd"}
+  - index: 62
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958882.432906789, filename: "image_0062.png"}
+      - {type: "point_cloud", timestamp: 1424958882.432905984, filename: "point_cloud_0062.pcd"}
+  - index: 63
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958889.155778277, filename: "image_0063.png"}
+      - {type: "point_cloud", timestamp: 1424958889.155778048, filename: "point_cloud_0063.pcd"}
+  - index: 64
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958894.764272605, filename: "image_0064.png"}
+      - {type: "point_cloud", timestamp: 1424958894.764272128, filename: "point_cloud_0064.pcd"}
+  - index: 65
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958901.367200926, filename: "image_0065.png"}
+      - {type: "point_cloud", timestamp: 1424958901.367201024, filename: "point_cloud_0065.pcd"}
+  - index: 66
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958905.761964083, filename: "image_0066.png"}
+      - {type: "point_cloud", timestamp: 1424958905.761964032, filename: "point_cloud_0066.pcd"}
+  - index: 67
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958919.399851904, filename: "image_0067.png"}
+      - {type: "point_cloud", timestamp: 1424958919.399852032, filename: "point_cloud_0067.pcd"}
+  - index: 68
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958923.796275310, filename: "image_0068.png"}
+      - {type: "point_cloud", timestamp: 1424958923.796274944, filename: "point_cloud_0068.pcd"}
+  - index: 69
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958929.721306835, filename: "image_0069.png"}
+      - {type: "point_cloud", timestamp: 1424958929.689057024, filename: "point_cloud_0069.pcd"}
+  - index: 70
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958935.821671674, filename: "image_0070.png"}
+      - {type: "point_cloud", timestamp: 1424958935.821670912, filename: "point_cloud_0070.pcd"}
+  - index: 71
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958942.322960529, filename: "image_0071.png"}
+      - {type: "point_cloud", timestamp: 1424958942.322959872, filename: "point_cloud_0071.pcd"}
+  - index: 72
+    distance: 2
+    info: "p001"
+    acquired:
+      - {type: "image", timestamp: 1424958947.123345421, filename: "image_0072.png"}
+      - {type: "point_cloud", timestamp: 1424958947.123344896, filename: "point_cloud_0072.pcd"}
+  - index: 73
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959047.088699464, filename: "image_0073.png"}
+      - {type: "point_cloud", timestamp: 1424959047.088698880, filename: "point_cloud_0073.pcd"}
+  - index: 74
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959052.289835380, filename: "image_0074.png"}
+      - {type: "point_cloud", timestamp: 1424959052.289835008, filename: "point_cloud_0074.pcd"}
+  - index: 75
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959062.822433993, filename: "image_0075.png"}
+      - {type: "point_cloud", timestamp: 1424959062.822434048, filename: "point_cloud_0075.pcd"}
+  - index: 76
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959069.624044153, filename: "image_0076.png"}
+      - {type: "point_cloud", timestamp: 1424959069.624044032, filename: "point_cloud_0076.pcd"}
+  - index: 77
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959079.521587675, filename: "image_0077.png"}
+      - {type: "point_cloud", timestamp: 1424959079.521586944, filename: "point_cloud_0077.pcd"}
+  - index: 78
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959084.355915206, filename: "image_0078.png"}
+      - {type: "point_cloud", timestamp: 1424959084.355915008, filename: "point_cloud_0078.pcd"}
+  - index: 79
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959106.899587245, filename: "image_0079.png"}
+      - {type: "point_cloud", timestamp: 1424959106.865758976, filename: "point_cloud_0079.pcd"}
+  - index: 80
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959112.101135236, filename: "image_0080.png"}
+      - {type: "point_cloud", timestamp: 1424959112.063781120, filename: "point_cloud_0080.pcd"}
+  - index: 81
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959120.297955957, filename: "image_0081.png"}
+      - {type: "point_cloud", timestamp: 1424959120.297955072, filename: "point_cloud_0081.pcd"}
+  - index: 82
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959124.822346155, filename: "image_0082.png"}
+      - {type: "point_cloud", timestamp: 1424959124.788955904, filename: "point_cloud_0082.pcd"}
+  - index: 83
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959132.331116478, filename: "image_0083.png"}
+      - {type: "point_cloud", timestamp: 1424959132.331116032, filename: "point_cloud_0083.pcd"}
+  - index: 84
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959141.433028503, filename: "image_0084.png"}
+      - {type: "point_cloud", timestamp: 1424959141.433028096, filename: "point_cloud_0084.pcd"}
+  - index: 85
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959176.989754702, filename: "image_0085.png"}
+      - {type: "point_cloud", timestamp: 1424959176.989754112, filename: "point_cloud_0085.pcd"}
+  - index: 86
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959181.390529295, filename: "image_0086.png"}
+      - {type: "point_cloud", timestamp: 1424959181.390529024, filename: "point_cloud_0086.pcd"}
+  - index: 87
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959189.522779861, filename: "image_0087.png"}
+      - {type: "point_cloud", timestamp: 1424959189.522779904, filename: "point_cloud_0087.pcd"}
+  - index: 88
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959194.422395497, filename: "image_0088.png"}
+      - {type: "point_cloud", timestamp: 1424959194.422394880, filename: "point_cloud_0088.pcd"}
+  - index: 89
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959204.921704761, filename: "image_0089.png"}
+      - {type: "point_cloud", timestamp: 1424959204.921703936, filename: "point_cloud_0089.pcd"}
+  - index: 90
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959211.356879536, filename: "image_0090.png"}
+      - {type: "point_cloud", timestamp: 1424959211.356879104, filename: "point_cloud_0090.pcd"}
+  - index: 91
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959232.589191737, filename: "image_0091.png"}
+      - {type: "point_cloud", timestamp: 1424959232.556061952, filename: "point_cloud_0091.pcd"}
+  - index: 92
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959236.791252923, filename: "image_0092.png"}
+      - {type: "point_cloud", timestamp: 1424959236.791252992, filename: "point_cloud_0092.pcd"}
+  - index: 93
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959249.322023437, filename: "image_0093.png"}
+      - {type: "point_cloud", timestamp: 1424959249.288739072, filename: "point_cloud_0093.pcd"}
+  - index: 94
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959253.922583651, filename: "image_0094.png"}
+      - {type: "point_cloud", timestamp: 1424959253.922583040, filename: "point_cloud_0094.pcd"}
+  - index: 95
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959262.931081249, filename: "image_0095.png"}
+      - {type: "point_cloud", timestamp: 1424959262.931080960, filename: "point_cloud_0095.pcd"}
+  - index: 96
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959268.030744762, filename: "image_0096.png"}
+      - {type: "point_cloud", timestamp: 1424959268.030744064, filename: "point_cloud_0096.pcd"}
+  - index: 97
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959300.289451565, filename: "image_0097.png"}
+      - {type: "point_cloud", timestamp: 1424959300.289451008, filename: "point_cloud_0097.pcd"}
+  - index: 98
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959312.321961950, filename: "image_0098.png"}
+      - {type: "point_cloud", timestamp: 1424959312.290522112, filename: "point_cloud_0098.pcd"}
+  - index: 99
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959457.434545298, filename: "image_0099.png"}
+      - {type: "point_cloud", timestamp: 1424959457.400398080, filename: "point_cloud_0099.pcd"}
+  - index: 100
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959462.732153047, filename: "image_0100.png"}
+      - {type: "point_cloud", timestamp: 1424959462.695011072, filename: "point_cloud_0100.pcd"}
+  - index: 101
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959471.932443212, filename: "image_0101.png"}
+      - {type: "point_cloud", timestamp: 1424959471.932442880, filename: "point_cloud_0101.pcd"}
+  - index: 102
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959476.433810174, filename: "image_0102.png"}
+      - {type: "point_cloud", timestamp: 1424959476.433809920, filename: "point_cloud_0102.pcd"}
+  - index: 103
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959496.689517217, filename: "image_0103.png"}
+      - {type: "point_cloud", timestamp: 1424959496.656529920, filename: "point_cloud_0103.pcd"}
+  - index: 104
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959501.464307621, filename: "image_0104.png"}
+      - {type: "point_cloud", timestamp: 1424959501.464306944, filename: "point_cloud_0104.pcd"}
+  - index: 105
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959511.790197842, filename: "image_0105.png"}
+      - {type: "point_cloud", timestamp: 1424959511.790196992, filename: "point_cloud_0105.pcd"}
+  - index: 106
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959516.323064867, filename: "image_0106.png"}
+      - {type: "point_cloud", timestamp: 1424959516.289159936, filename: "point_cloud_0106.pcd"}
+  - index: 107
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959524.322627946, filename: "image_0107.png"}
+      - {type: "point_cloud", timestamp: 1424959524.322627072, filename: "point_cloud_0107.pcd"}
+  - index: 108
+    distance: 2
+    info: "p002"
+    acquired:
+      - {type: "image", timestamp: 1424959529.130448190, filename: "image_0108.png"}
+      - {type: "point_cloud", timestamp: 1424959529.130447872, filename: "point_cloud_0108.pcd"}
+  - index: 109
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959622.359110776, filename: "image_0109.png"}
+      - {type: "point_cloud", timestamp: 1424959622.359109888, filename: "point_cloud_0109.pcd"}
+  - index: 110
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959629.390870675, filename: "image_0110.png"}
+      - {type: "point_cloud", timestamp: 1424959629.390870016, filename: "point_cloud_0110.pcd"}
+  - index: 111
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959638.990444148, filename: "image_0111.png"}
+      - {type: "point_cloud", timestamp: 1424959638.990444032, filename: "point_cloud_0111.pcd"}
+  - index: 112
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959643.799692291, filename: "image_0112.png"}
+      - {type: "point_cloud", timestamp: 1424959643.799692032, filename: "point_cloud_0112.pcd"}
+  - index: 113
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959675.662196050, filename: "image_0113.png"}
+      - {type: "point_cloud", timestamp: 1424959675.630338048, filename: "point_cloud_0113.pcd"}
+  - index: 114
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959681.457766025, filename: "image_0114.png"}
+      - {type: "point_cloud", timestamp: 1424959681.457765888, filename: "point_cloud_0114.pcd"}
+  - index: 115
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959701.597833268, filename: "image_0115.png"}
+      - {type: "point_cloud", timestamp: 1424959701.597832960, filename: "point_cloud_0115.pcd"}
+  - index: 116
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959705.899852185, filename: "image_0116.png"}
+      - {type: "point_cloud", timestamp: 1424959705.899852032, filename: "point_cloud_0116.pcd"}
+  - index: 117
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959720.224279900, filename: "image_0117.png"}
+      - {type: "point_cloud", timestamp: 1424959720.224279040, filename: "point_cloud_0117.pcd"}
+  - index: 118
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959724.725146666, filename: "image_0118.png"}
+      - {type: "point_cloud", timestamp: 1424959724.725146112, filename: "point_cloud_0118.pcd"}
+  - index: 119
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959734.758111479, filename: "image_0119.png"}
+      - {type: "point_cloud", timestamp: 1424959734.758110976, filename: "point_cloud_0119.pcd"}
+  - index: 120
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959740.364738804, filename: "image_0120.png"}
+      - {type: "point_cloud", timestamp: 1424959740.364738048, filename: "point_cloud_0120.pcd"}
+  - index: 121
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959778.324910226, filename: "image_0121.png"}
+      - {type: "point_cloud", timestamp: 1424959778.324910080, filename: "point_cloud_0121.pcd"}
+  - index: 122
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959783.522786015, filename: "image_0122.png"}
+      - {type: "point_cloud", timestamp: 1424959783.522786048, filename: "point_cloud_0122.pcd"}
+  - index: 123
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959798.158339969, filename: "image_0123.png"}
+      - {type: "point_cloud", timestamp: 1424959798.125004032, filename: "point_cloud_0123.pcd"}
+  - index: 124
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959802.756579915, filename: "image_0124.png"}
+      - {type: "point_cloud", timestamp: 1424959802.756579072, filename: "point_cloud_0124.pcd"}
+  - index: 125
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959814.190972888, filename: "image_0125.png"}
+      - {type: "point_cloud", timestamp: 1424959814.157317888, filename: "point_cloud_0125.pcd"}
+  - index: 126
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959818.564980938, filename: "image_0126.png"}
+      - {type: "point_cloud", timestamp: 1424959818.564980992, filename: "point_cloud_0126.pcd"}
+  - index: 127
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959836.823274378, filename: "image_0127.png"}
+      - {type: "point_cloud", timestamp: 1424959836.789579008, filename: "point_cloud_0127.pcd"}
+  - index: 128
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959841.727875031, filename: "image_0128.png"}
+      - {type: "point_cloud", timestamp: 1424959841.727875072, filename: "point_cloud_0128.pcd"}
+  - index: 129
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959850.125028569, filename: "image_0129.png"}
+      - {type: "point_cloud", timestamp: 1424959850.125028096, filename: "point_cloud_0129.pcd"}
+  - index: 130
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959854.358022489, filename: "image_0130.png"}
+      - {type: "point_cloud", timestamp: 1424959854.323504896, filename: "point_cloud_0130.pcd"}
+  - index: 131
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959862.273349802, filename: "image_0131.png"}
+      - {type: "point_cloud", timestamp: 1424959862.273349888, filename: "point_cloud_0131.pcd"}
+  - index: 132
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959866.565011645, filename: "image_0132.png"}
+      - {type: "point_cloud", timestamp: 1424959866.565010944, filename: "point_cloud_0132.pcd"}
+  - index: 133
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959921.556778264, filename: "image_0133.png"}
+      - {type: "point_cloud", timestamp: 1424959921.556777984, filename: "point_cloud_0133.pcd"}
+  - index: 134
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959925.658380647, filename: "image_0134.png"}
+      - {type: "point_cloud", timestamp: 1424959925.658380032, filename: "point_cloud_0134.pcd"}
+  - index: 135
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959935.990312577, filename: "image_0135.png"}
+      - {type: "point_cloud", timestamp: 1424959935.957686016, filename: "point_cloud_0135.pcd"}
+  - index: 136
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959940.397132071, filename: "image_0136.png"}
+      - {type: "point_cloud", timestamp: 1424959940.365602048, filename: "point_cloud_0136.pcd"}
+  - index: 137
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959947.889842051, filename: "image_0137.png"}
+      - {type: "point_cloud", timestamp: 1424959947.889841920, filename: "point_cloud_0137.pcd"}
+  - index: 138
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959952.497710773, filename: "image_0138.png"}
+      - {type: "point_cloud", timestamp: 1424959952.497710080, filename: "point_cloud_0138.pcd"}
+  - index: 139
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959973.630056617, filename: "image_0139.png"}
+      - {type: "point_cloud", timestamp: 1424959973.630055936, filename: "point_cloud_0139.pcd"}
+  - index: 140
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959978.860811621, filename: "image_0140.png"}
+      - {type: "point_cloud", timestamp: 1424959978.830159104, filename: "point_cloud_0140.pcd"}
+  - index: 141
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959992.256732600, filename: "image_0141.png"}
+      - {type: "point_cloud", timestamp: 1424959992.256731904, filename: "point_cloud_0141.pcd"}
+  - index: 142
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424959996.570697381, filename: "image_0142.png"}
+      - {type: "point_cloud", timestamp: 1424959996.570696960, filename: "point_cloud_0142.pcd"}
+  - index: 143
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424960004.698957254, filename: "image_0143.png"}
+      - {type: "point_cloud", timestamp: 1424960004.665704960, filename: "point_cloud_0143.pcd"}
+  - index: 144
+    distance: 2
+    info: "p003"
+    acquired:
+      - {type: "image", timestamp: 1424960009.797098255, filename: "image_0144.png"}
+      - {type: "point_cloud", timestamp: 1424960009.765609984, filename: "point_cloud_0144.pcd"}
+  - index: 145
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960151.438473246, filename: "image_0145.png"}
+      - {type: "point_cloud", timestamp: 1424960151.438472960, filename: "point_cloud_0145.pcd"}
+  - index: 146
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960183.497163827, filename: "image_0146.png"}
+      - {type: "point_cloud", timestamp: 1424960183.497163008, filename: "point_cloud_0146.pcd"}
+  - index: 147
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960194.897240757, filename: "image_0147.png"}
+      - {type: "point_cloud", timestamp: 1424960194.897240064, filename: "point_cloud_0147.pcd"}
+  - index: 148
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960201.504746153, filename: "image_0148.png"}
+      - {type: "point_cloud", timestamp: 1424960201.504745984, filename: "point_cloud_0148.pcd"}
+  - index: 149
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960210.941387564, filename: "image_0149.png"}
+      - {type: "point_cloud", timestamp: 1424960210.904131072, filename: "point_cloud_0149.pcd"}
+  - index: 150
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960216.642655223, filename: "image_0150.png"}
+      - {type: "point_cloud", timestamp: 1424960216.642654976, filename: "point_cloud_0150.pcd"}
+  - index: 151
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960230.370124898, filename: "image_0151.png"}
+      - {type: "point_cloud", timestamp: 1424960230.370124032, filename: "point_cloud_0151.pcd"}
+  - index: 152
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960238.672175382, filename: "image_0152.png"}
+      - {type: "point_cloud", timestamp: 1424960238.672175104, filename: "point_cloud_0152.pcd"}
+  - index: 153
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960246.797428258, filename: "image_0153.png"}
+      - {type: "point_cloud", timestamp: 1424960246.797427968, filename: "point_cloud_0153.pcd"}
+  - index: 154
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960252.597214315, filename: "image_0154.png"}
+      - {type: "point_cloud", timestamp: 1424960252.597213952, filename: "point_cloud_0154.pcd"}
+  - index: 155
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960263.829796337, filename: "image_0155.png"}
+      - {type: "point_cloud", timestamp: 1424960263.797504000, filename: "point_cloud_0155.pcd"}
+  - index: 156
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960272.229681234, filename: "image_0156.png"}
+      - {type: "point_cloud", timestamp: 1424960272.229680896, filename: "point_cloud_0156.pcd"}
+  - index: 157
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960335.430553297, filename: "image_0157.png"}
+      - {type: "point_cloud", timestamp: 1424960335.430553088, filename: "point_cloud_0157.pcd"}
+  - index: 158
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960347.530607553, filename: "image_0158.png"}
+      - {type: "point_cloud", timestamp: 1424960347.530607104, filename: "point_cloud_0158.pcd"}
+  - index: 159
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960359.063397736, filename: "image_0159.png"}
+      - {type: "point_cloud", timestamp: 1424960359.063397120, filename: "point_cloud_0159.pcd"}
+  - index: 160
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960366.970466031, filename: "image_0160.png"}
+      - {type: "point_cloud", timestamp: 1424960366.970466048, filename: "point_cloud_0160.pcd"}
+  - index: 161
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960384.395768718, filename: "image_0161.png"}
+      - {type: "point_cloud", timestamp: 1424960384.395768064, filename: "point_cloud_0161.pcd"}
+  - index: 162
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960392.729136548, filename: "image_0162.png"}
+      - {type: "point_cloud", timestamp: 1424960392.696026112, filename: "point_cloud_0162.pcd"}
+  - index: 163
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960411.039038641, filename: "image_0163.png"}
+      - {type: "point_cloud", timestamp: 1424960411.039037952, filename: "point_cloud_0163.pcd"}
+  - index: 164
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960417.164365113, filename: "image_0164.png"}
+      - {type: "point_cloud", timestamp: 1424960417.130543104, filename: "point_cloud_0164.pcd"}
+  - index: 165
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960428.070930726, filename: "image_0165.png"}
+      - {type: "point_cloud", timestamp: 1424960428.070929920, filename: "point_cloud_0165.pcd"}
+  - index: 166
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960438.771588824, filename: "image_0166.png"}
+      - {type: "point_cloud", timestamp: 1424960438.771588096, filename: "point_cloud_0166.pcd"}
+  - index: 167
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960450.403800847, filename: "image_0167.png"}
+      - {type: "point_cloud", timestamp: 1424960450.403800064, filename: "point_cloud_0167.pcd"}
+  - index: 168
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960463.438718254, filename: "image_0168.png"}
+      - {type: "point_cloud", timestamp: 1424960463.404688896, filename: "point_cloud_0168.pcd"}
+  - index: 169
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960696.521755890, filename: "image_0169.png"}
+      - {type: "point_cloud", timestamp: 1424960696.521755904, filename: "point_cloud_0169.pcd"}
+  - index: 170
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960702.923686351, filename: "image_0170.png"}
+      - {type: "point_cloud", timestamp: 1424960702.923685888, filename: "point_cloud_0170.pcd"}
+  - index: 171
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960712.552478440, filename: "image_0171.png"}
+      - {type: "point_cloud", timestamp: 1424960712.523278080, filename: "point_cloud_0171.pcd"}
+  - index: 172
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960721.649422439, filename: "image_0172.png"}
+      - {type: "point_cloud", timestamp: 1424960721.649422080, filename: "point_cloud_0172.pcd"}
+  - index: 173
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960732.057791041, filename: "image_0173.png"}
+      - {type: "point_cloud", timestamp: 1424960732.057790976, filename: "point_cloud_0173.pcd"}
+  - index: 174
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960740.887115781, filename: "image_0174.png"}
+      - {type: "point_cloud", timestamp: 1424960740.887115008, filename: "point_cloud_0174.pcd"}
+  - index: 175
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960756.625893182, filename: "image_0175.png"}
+      - {type: "point_cloud", timestamp: 1424960756.590212096, filename: "point_cloud_0175.pcd"}
+  - index: 176
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960764.123792341, filename: "image_0176.png"}
+      - {type: "point_cloud", timestamp: 1424960764.123791872, filename: "point_cloud_0176.pcd"}
+  - index: 177
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960774.228602119, filename: "image_0177.png"}
+      - {type: "point_cloud", timestamp: 1424960774.228602112, filename: "point_cloud_0177.pcd"}
+  - index: 178
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960781.459178590, filename: "image_0178.png"}
+      - {type: "point_cloud", timestamp: 1424960781.459177984, filename: "point_cloud_0178.pcd"}
+  - index: 179
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960791.860411195, filename: "image_0179.png"}
+      - {type: "point_cloud", timestamp: 1424960791.860410880, filename: "point_cloud_0179.pcd"}
+  - index: 180
+    distance: 2
+    info: "p004"
+    acquired:
+      - {type: "image", timestamp: 1424960799.286028786, filename: "image_0180.png"}
+      - {type: "point_cloud", timestamp: 1424960799.286028032, filename: "point_cloud_0180.pcd"}
+  - index: 181
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424960915.352330602, filename: "image_0181.png"}
+      - {type: "point_cloud", timestamp: 1424960915.352329984, filename: "point_cloud_0181.pcd"}
+  - index: 182
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424960921.759578097, filename: "image_0182.png"}
+      - {type: "point_cloud", timestamp: 1424960921.759578112, filename: "point_cloud_0182.pcd"}
+  - index: 183
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424960933.954965113, filename: "image_0183.png"}
+      - {type: "point_cloud", timestamp: 1424960933.954964992, filename: "point_cloud_0183.pcd"}
+  - index: 184
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424960938.391298785, filename: "image_0184.png"}
+      - {type: "point_cloud", timestamp: 1424960938.356246016, filename: "point_cloud_0184.pcd"}
+  - index: 185
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424960956.523163119, filename: "image_0185.png"}
+      - {type: "point_cloud", timestamp: 1424960956.486736896, filename: "point_cloud_0185.pcd"}
+  - index: 186
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424960963.126051723, filename: "image_0186.png"}
+      - {type: "point_cloud", timestamp: 1424960963.126051072, filename: "point_cloud_0186.pcd"}
+  - index: 187
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424960988.051569312, filename: "image_0187.png"}
+      - {type: "point_cloud", timestamp: 1424960988.051568896, filename: "point_cloud_0187.pcd"}
+  - index: 188
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424960992.354902768, filename: "image_0188.png"}
+      - {type: "point_cloud", timestamp: 1424960992.354902016, filename: "point_cloud_0188.pcd"}
+  - index: 189
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424960999.389534920, filename: "image_0189.png"}
+      - {type: "point_cloud", timestamp: 1424960999.361455104, filename: "point_cloud_0189.pcd"}
+  - index: 190
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961003.361636077, filename: "image_0190.png"}
+      - {type: "point_cloud", timestamp: 1424961003.361636096, filename: "point_cloud_0190.pcd"}
+  - index: 191
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961015.286568717, filename: "image_0191.png"}
+      - {type: "point_cloud", timestamp: 1424961015.286567936, filename: "point_cloud_0191.pcd"}
+  - index: 192
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961019.221366651, filename: "image_0192.png"}
+      - {type: "point_cloud", timestamp: 1424961019.187613952, filename: "point_cloud_0192.pcd"}
+  - index: 193
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961085.203539003, filename: "image_0193.png"}
+      - {type: "point_cloud", timestamp: 1424961085.203538944, filename: "point_cloud_0193.pcd"}
+  - index: 194
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961089.329310852, filename: "image_0194.png"}
+      - {type: "point_cloud", timestamp: 1424961089.294853120, filename: "point_cloud_0194.pcd"}
+  - index: 195
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961105.054159083, filename: "image_0195.png"}
+      - {type: "point_cloud", timestamp: 1424961105.054159104, filename: "point_cloud_0195.pcd"}
+  - index: 196
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961109.163526537, filename: "image_0196.png"}
+      - {type: "point_cloud", timestamp: 1424961109.163525888, filename: "point_cloud_0196.pcd"}
+  - index: 197
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961122.968284098, filename: "image_0197.png"}
+      - {type: "point_cloud", timestamp: 1424961122.968283904, filename: "point_cloud_0197.pcd"}
+  - index: 198
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961126.986401554, filename: "image_0198.png"}
+      - {type: "point_cloud", timestamp: 1424961126.986401024, filename: "point_cloud_0198.pcd"}
+  - index: 199
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961149.019552773, filename: "image_0199.png"}
+      - {type: "point_cloud", timestamp: 1424961149.019552000, filename: "point_cloud_0199.pcd"}
+  - index: 200
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961153.221633603, filename: "image_0200.png"}
+      - {type: "point_cloud", timestamp: 1424961153.221633024, filename: "point_cloud_0200.pcd"}
+  - index: 201
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961165.154179725, filename: "image_0201.png"}
+      - {type: "point_cloud", timestamp: 1424961165.120637952, filename: "point_cloud_0201.pcd"}
+  - index: 202
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961169.128302114, filename: "image_0202.png"}
+      - {type: "point_cloud", timestamp: 1424961169.128302080, filename: "point_cloud_0202.pcd"}
+  - index: 203
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961211.599251852, filename: "image_0203.png"}
+      - {type: "point_cloud", timestamp: 1424961211.599251968, filename: "point_cloud_0203.pcd"}
+  - index: 204
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961216.932141240, filename: "image_0204.png"}
+      - {type: "point_cloud", timestamp: 1424961216.932141056, filename: "point_cloud_0204.pcd"}
+  - index: 205
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961250.687472464, filename: "image_0205.png"}
+      - {type: "point_cloud", timestamp: 1424961250.655001088, filename: "point_cloud_0205.pcd"}
+  - index: 206
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961255.388297666, filename: "image_0206.png"}
+      - {type: "point_cloud", timestamp: 1424961255.388296960, filename: "point_cloud_0206.pcd"}
+  - index: 207
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961265.893796201, filename: "image_0207.png"}
+      - {type: "point_cloud", timestamp: 1424961265.893796096, filename: "point_cloud_0207.pcd"}
+  - index: 208
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961271.691032911, filename: "image_0208.png"}
+      - {type: "point_cloud", timestamp: 1424961271.691032064, filename: "point_cloud_0208.pcd"}
+  - index: 209
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961281.520930324, filename: "image_0209.png"}
+      - {type: "point_cloud", timestamp: 1424961281.520930048, filename: "point_cloud_0209.pcd"}
+  - index: 210
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961286.321052366, filename: "image_0210.png"}
+      - {type: "point_cloud", timestamp: 1424961286.321051904, filename: "point_cloud_0210.pcd"}
+  - index: 211
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961311.386996892, filename: "image_0211.png"}
+      - {type: "point_cloud", timestamp: 1424961311.354384896, filename: "point_cloud_0211.pcd"}
+  - index: 212
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961316.168664285, filename: "image_0212.png"}
+      - {type: "point_cloud", timestamp: 1424961316.168664064, filename: "point_cloud_0212.pcd"}
+  - index: 213
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961327.886932993, filename: "image_0213.png"}
+      - {type: "point_cloud", timestamp: 1424961327.886932992, filename: "point_cloud_0213.pcd"}
+  - index: 214
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961332.793748611, filename: "image_0214.png"}
+      - {type: "point_cloud", timestamp: 1424961332.793747968, filename: "point_cloud_0214.pcd"}
+  - index: 215
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961341.221241657, filename: "image_0215.png"}
+      - {type: "point_cloud", timestamp: 1424961341.221241088, filename: "point_cloud_0215.pcd"}
+  - index: 216
+    distance: 2
+    info: "p005"
+    acquired:
+      - {type: "image", timestamp: 1424961345.322003719, filename: "image_0216.png"}
+      - {type: "point_cloud", timestamp: 1424961345.322002944, filename: "point_cloud_0216.pcd"}
+  - index: 217
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961488.161587845, filename: "image_0217.png"}
+      - {type: "point_cloud", timestamp: 1424961488.161587968, filename: "point_cloud_0217.pcd"}
+  - index: 218
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961497.868104252, filename: "image_0218.png"}
+      - {type: "point_cloud", timestamp: 1424961497.868103936, filename: "point_cloud_0218.pcd"}
+  - index: 219
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961510.089381779, filename: "image_0219.png"}
+      - {type: "point_cloud", timestamp: 1424961510.089381888, filename: "point_cloud_0219.pcd"}
+  - index: 220
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961519.396252508, filename: "image_0220.png"}
+      - {type: "point_cloud", timestamp: 1424961519.364211968, filename: "point_cloud_0220.pcd"}
+  - index: 221
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961534.820680171, filename: "image_0221.png"}
+      - {type: "point_cloud", timestamp: 1424961534.820679936, filename: "point_cloud_0221.pcd"}
+  - index: 222
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961543.720607195, filename: "image_0222.png"}
+      - {type: "point_cloud", timestamp: 1424961543.720606976, filename: "point_cloud_0222.pcd"}
+  - index: 223
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961568.687464439, filename: "image_0223.png"}
+      - {type: "point_cloud", timestamp: 1424961568.656442880, filename: "point_cloud_0223.pcd"}
+  - index: 224
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961573.787730485, filename: "image_0224.png"}
+      - {type: "point_cloud", timestamp: 1424961573.787729920, filename: "point_cloud_0224.pcd"}
+  - index: 225
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961592.829102189, filename: "image_0225.png"}
+      - {type: "point_cloud", timestamp: 1424961592.789004032, filename: "point_cloud_0225.pcd"}
+  - index: 226
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961598.728650242, filename: "image_0226.png"}
+      - {type: "point_cloud", timestamp: 1424961598.728649984, filename: "point_cloud_0226.pcd"}
+  - index: 227
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961610.654956992, filename: "image_0227.png"}
+      - {type: "point_cloud", timestamp: 1424961610.622146048, filename: "point_cloud_0227.pcd"}
+  - index: 228
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961617.555150661, filename: "image_0228.png"}
+      - {type: "point_cloud", timestamp: 1424961617.555150080, filename: "point_cloud_0228.pcd"}
+  - index: 229
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961659.520249269, filename: "image_0229.png"}
+      - {type: "point_cloud", timestamp: 1424961659.520249088, filename: "point_cloud_0229.pcd"}
+  - index: 230
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961664.429005320, filename: "image_0230.png"}
+      - {type: "point_cloud", timestamp: 1424961664.429005056, filename: "point_cloud_0230.pcd"}
+  - index: 231
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961674.134370279, filename: "image_0231.png"}
+      - {type: "point_cloud", timestamp: 1424961674.134370048, filename: "point_cloud_0231.pcd"}
+  - index: 232
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961678.054719109, filename: "image_0232.png"}
+      - {type: "point_cloud", timestamp: 1424961678.054718976, filename: "point_cloud_0232.pcd"}
+  - index: 233
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961688.753451423, filename: "image_0233.png"}
+      - {type: "point_cloud", timestamp: 1424961688.753451008, filename: "point_cloud_0233.pcd"}
+  - index: 234
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961692.864147004, filename: "image_0234.png"}
+      - {type: "point_cloud", timestamp: 1424961692.864146944, filename: "point_cloud_0234.pcd"}
+  - index: 235
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961712.489247967, filename: "image_0235.png"}
+      - {type: "point_cloud", timestamp: 1424961712.489248000, filename: "point_cloud_0235.pcd"}
+  - index: 236
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961716.420273116, filename: "image_0236.png"}
+      - {type: "point_cloud", timestamp: 1424961716.389852928, filename: "point_cloud_0236.pcd"}
+  - index: 237
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961726.220090398, filename: "image_0237.png"}
+      - {type: "point_cloud", timestamp: 1424961726.220090112, filename: "point_cloud_0237.pcd"}
+  - index: 238
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961730.321084837, filename: "image_0238.png"}
+      - {type: "point_cloud", timestamp: 1424961730.321084928, filename: "point_cloud_0238.pcd"}
+  - index: 239
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961739.556230887, filename: "image_0239.png"}
+      - {type: "point_cloud", timestamp: 1424961739.524161024, filename: "point_cloud_0239.pcd"}
+  - index: 240
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961745.264933933, filename: "image_0240.png"}
+      - {type: "point_cloud", timestamp: 1424961745.230465024, filename: "point_cloud_0240.pcd"}
+  - index: 241
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961793.079985961, filename: "image_0241.png"}
+      - {type: "point_cloud", timestamp: 1424961793.047493888, filename: "point_cloud_0241.pcd"}
+  - index: 242
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961798.179542771, filename: "image_0242.png"}
+      - {type: "point_cloud", timestamp: 1424961798.179542016, filename: "point_cloud_0242.pcd"}
+  - index: 243
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961809.585621675, filename: "image_0243.png"}
+      - {type: "point_cloud", timestamp: 1424961809.585620992, filename: "point_cloud_0243.pcd"}
+  - index: 244
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961813.913877140, filename: "image_0244.png"}
+      - {type: "point_cloud", timestamp: 1424961813.880000000, filename: "point_cloud_0244.pcd"}
+  - index: 245
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961834.922491110, filename: "image_0245.png"}
+      - {type: "point_cloud", timestamp: 1424961834.922490880, filename: "point_cloud_0245.pcd"}
+  - index: 246
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961839.019210663, filename: "image_0246.png"}
+      - {type: "point_cloud", timestamp: 1424961839.019209984, filename: "point_cloud_0246.pcd"}
+  - index: 247
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961854.580086939, filename: "image_0247.png"}
+      - {type: "point_cloud", timestamp: 1424961854.546009088, filename: "point_cloud_0247.pcd"}
+  - index: 248
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961858.787280013, filename: "image_0248.png"}
+      - {type: "point_cloud", timestamp: 1424961858.754265088, filename: "point_cloud_0248.pcd"}
+  - index: 249
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961869.592618533, filename: "image_0249.png"}
+      - {type: "point_cloud", timestamp: 1424961869.592617984, filename: "point_cloud_0249.pcd"}
+  - index: 250
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961873.887152624, filename: "image_0250.png"}
+      - {type: "point_cloud", timestamp: 1424961873.887152128, filename: "point_cloud_0250.pcd"}
+  - index: 251
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961885.713706793, filename: "image_0251.png"}
+      - {type: "point_cloud", timestamp: 1424961885.713705984, filename: "point_cloud_0251.pcd"}
+  - index: 252
+    distance: 2
+    info: "p006"
+    acquired:
+      - {type: "image", timestamp: 1424961891.219249659, filename: "image_0252.png"}
+      - {type: "point_cloud", timestamp: 1424961891.219248896, filename: "point_cloud_0252.pcd"}
+  - index: 253
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962169.946403813, filename: "image_0253.png"}
+      - {type: "point_cloud", timestamp: 1424962169.946403072, filename: "point_cloud_0253.pcd"}
+  - index: 254
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962179.447313415, filename: "image_0254.png"}
+      - {type: "point_cloud", timestamp: 1424962179.447312896, filename: "point_cloud_0254.pcd"}
+  - index: 255
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962198.680025041, filename: "image_0255.png"}
+      - {type: "point_cloud", timestamp: 1424962198.680025088, filename: "point_cloud_0255.pcd"}
+  - index: 256
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962209.004675344, filename: "image_0256.png"}
+      - {type: "point_cloud", timestamp: 1424962209.004675072, filename: "point_cloud_0256.pcd"}
+  - index: 257
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962234.636725406, filename: "image_0257.png"}
+      - {type: "point_cloud", timestamp: 1424962234.636724992, filename: "point_cloud_0257.pcd"}
+  - index: 258
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962242.171753735, filename: "image_0258.png"}
+      - {type: "point_cloud", timestamp: 1424962242.136374016, filename: "point_cloud_0258.pcd"}
+  - index: 259
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962259.602549339, filename: "image_0259.png"}
+      - {type: "point_cloud", timestamp: 1424962259.569896960, filename: "point_cloud_0259.pcd"}
+  - index: 260
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962265.115603818, filename: "image_0260.png"}
+      - {type: "point_cloud", timestamp: 1424962265.078547968, filename: "point_cloud_0260.pcd"}
+  - index: 261
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962280.037066323, filename: "image_0261.png"}
+      - {type: "point_cloud", timestamp: 1424962280.004093952, filename: "point_cloud_0261.pcd"}
+  - index: 262
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962286.137837641, filename: "image_0262.png"}
+      - {type: "point_cloud", timestamp: 1424962286.137837056, filename: "point_cloud_0262.pcd"}
+  - index: 263
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962312.171931998, filename: "image_0263.png"}
+      - {type: "point_cloud", timestamp: 1424962312.171931904, filename: "point_cloud_0263.pcd"}
+  - index: 264
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962317.970328824, filename: "image_0264.png"}
+      - {type: "point_cloud", timestamp: 1424962317.970328064, filename: "point_cloud_0264.pcd"}
+  - index: 265
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962347.436768037, filename: "image_0265.png"}
+      - {type: "point_cloud", timestamp: 1424962347.436768000, filename: "point_cloud_0265.pcd"}
+  - index: 266
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962351.836635070, filename: "image_0266.png"}
+      - {type: "point_cloud", timestamp: 1424962351.836634880, filename: "point_cloud_0266.pcd"}
+  - index: 267
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962365.745121197, filename: "image_0267.png"}
+      - {type: "point_cloud", timestamp: 1424962365.745121024, filename: "point_cloud_0267.pcd"}
+  - index: 268
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962370.381632208, filename: "image_0268.png"}
+      - {type: "point_cloud", timestamp: 1424962370.350885120, filename: "point_cloud_0268.pcd"}
+  - index: 269
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962383.678958239, filename: "image_0269.png"}
+      - {type: "point_cloud", timestamp: 1424962383.678958080, filename: "point_cloud_0269.pcd"}
+  - index: 270
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962389.615848191, filename: "image_0270.png"}
+      - {type: "point_cloud", timestamp: 1424962389.615847936, filename: "point_cloud_0270.pcd"}
+  - index: 271
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962411.237873458, filename: "image_0271.png"}
+      - {type: "point_cloud", timestamp: 1424962411.237872896, filename: "point_cloud_0271.pcd"}
+  - index: 272
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962416.444508635, filename: "image_0272.png"}
+      - {type: "point_cloud", timestamp: 1424962416.444507904, filename: "point_cloud_0272.pcd"}
+  - index: 273
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962432.870041780, filename: "image_0273.png"}
+      - {type: "point_cloud", timestamp: 1424962432.870041088, filename: "point_cloud_0273.pcd"}
+  - index: 274
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962437.171805274, filename: "image_0274.png"}
+      - {type: "point_cloud", timestamp: 1424962437.171804928, filename: "point_cloud_0274.pcd"}
+  - index: 275
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962451.311050975, filename: "image_0275.png"}
+      - {type: "point_cloud", timestamp: 1424962451.276239872, filename: "point_cloud_0275.pcd"}
+  - index: 276
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962460.012239124, filename: "image_0276.png"}
+      - {type: "point_cloud", timestamp: 1424962460.012239104, filename: "point_cloud_0276.pcd"}
+  - index: 277
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962493.478984220, filename: "image_0277.png"}
+      - {type: "point_cloud", timestamp: 1424962493.444876032, filename: "point_cloud_0277.pcd"}
+  - index: 278
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962497.782589031, filename: "image_0278.png"}
+      - {type: "point_cloud", timestamp: 1424962497.746031104, filename: "point_cloud_0278.pcd"}
+  - index: 279
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962509.576554900, filename: "image_0279.png"}
+      - {type: "point_cloud", timestamp: 1424962509.576555008, filename: "point_cloud_0279.pcd"}
+  - index: 280
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962517.102999867, filename: "image_0280.png"}
+      - {type: "point_cloud", timestamp: 1424962517.102999040, filename: "point_cloud_0280.pcd"}
+  - index: 281
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962528.038357927, filename: "image_0281.png"}
+      - {type: "point_cloud", timestamp: 1424962528.004059904, filename: "point_cloud_0281.pcd"}
+  - index: 282
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962532.836938570, filename: "image_0282.png"}
+      - {type: "point_cloud", timestamp: 1424962532.836937984, filename: "point_cloud_0282.pcd"}
+  - index: 283
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962548.841894546, filename: "image_0283.png"}
+      - {type: "point_cloud", timestamp: 1424962548.841893888, filename: "point_cloud_0283.pcd"}
+  - index: 284
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962555.379142193, filename: "image_0284.png"}
+      - {type: "point_cloud", timestamp: 1424962555.348225024, filename: "point_cloud_0284.pcd"}
+  - index: 285
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962568.303486012, filename: "image_0285.png"}
+      - {type: "point_cloud", timestamp: 1424962568.269794048, filename: "point_cloud_0285.pcd"}
+  - index: 286
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962580.407846954, filename: "image_0286.png"}
+      - {type: "point_cloud", timestamp: 1424962580.407846912, filename: "point_cloud_0286.pcd"}
+  - index: 287
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962593.718038066, filename: "image_0287.png"}
+      - {type: "point_cloud", timestamp: 1424962593.718038016, filename: "point_cloud_0287.pcd"}
+  - index: 288
+    distance: 2
+    info: "p007"
+    acquired:
+      - {type: "image", timestamp: 1424962598.546418450, filename: "image_0288.png"}
+      - {type: "point_cloud", timestamp: 1424962598.511241984, filename: "point_cloud_0288.pcd"}
+  - index: 289
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962687.772123218, filename: "image_0289.png"}
+      - {type: "point_cloud", timestamp: 1424962687.772122880, filename: "point_cloud_0289.pcd"}
+  - index: 290
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962694.974330274, filename: "image_0290.png"}
+      - {type: "point_cloud", timestamp: 1424962694.974330112, filename: "point_cloud_0290.pcd"}
+  - index: 291
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962705.204418952, filename: "image_0291.png"}
+      - {type: "point_cloud", timestamp: 1424962705.204419072, filename: "point_cloud_0291.pcd"}
+  - index: 292
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962710.103039038, filename: "image_0292.png"}
+      - {type: "point_cloud", timestamp: 1424962710.103038976, filename: "point_cloud_0292.pcd"}
+  - index: 293
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962720.938710414, filename: "image_0293.png"}
+      - {type: "point_cloud", timestamp: 1424962720.904782080, filename: "point_cloud_0293.pcd"}
+  - index: 294
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962726.036660326, filename: "image_0294.png"}
+      - {type: "point_cloud", timestamp: 1424962726.036659968, filename: "point_cloud_0294.pcd"}
+  - index: 295
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962742.169699753, filename: "image_0295.png"}
+      - {type: "point_cloud", timestamp: 1424962742.169699072, filename: "point_cloud_0295.pcd"}
+  - index: 296
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962747.280122130, filename: "image_0296.png"}
+      - {type: "point_cloud", timestamp: 1424962747.250003968, filename: "point_cloud_0296.pcd"}
+  - index: 297
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962754.977409889, filename: "image_0297.png"}
+      - {type: "point_cloud", timestamp: 1424962754.977409024, filename: "point_cloud_0297.pcd"}
+  - index: 298
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962759.479018880, filename: "image_0298.png"}
+      - {type: "point_cloud", timestamp: 1424962759.479019008, filename: "point_cloud_0298.pcd"}
+  - index: 299
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962771.312435371, filename: "image_0299.png"}
+      - {type: "point_cloud", timestamp: 1424962771.281018880, filename: "point_cloud_0299.pcd"}
+  - index: 300
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962775.615330559, filename: "image_0300.png"}
+      - {type: "point_cloud", timestamp: 1424962775.615330048, filename: "point_cloud_0300.pcd"}
+  - index: 301
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962807.571069485, filename: "image_0301.png"}
+      - {type: "point_cloud", timestamp: 1424962807.571068928, filename: "point_cloud_0301.pcd"}
+  - index: 302
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962812.370463362, filename: "image_0302.png"}
+      - {type: "point_cloud", timestamp: 1424962812.370462976, filename: "point_cloud_0302.pcd"}
+  - index: 303
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962818.877528182, filename: "image_0303.png"}
+      - {type: "point_cloud", timestamp: 1424962818.877528064, filename: "point_cloud_0303.pcd"}
+  - index: 304
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962823.609626470, filename: "image_0304.png"}
+      - {type: "point_cloud", timestamp: 1424962823.577268992, filename: "point_cloud_0304.pcd"}
+  - index: 305
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962829.004737715, filename: "image_0305.png"}
+      - {type: "point_cloud", timestamp: 1424962829.004737024, filename: "point_cloud_0305.pcd"}
+  - index: 306
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962833.112800781, filename: "image_0306.png"}
+      - {type: "point_cloud", timestamp: 1424962833.080313088, filename: "point_cloud_0306.pcd"}
+  - index: 307
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962844.112630886, filename: "image_0307.png"}
+      - {type: "point_cloud", timestamp: 1424962844.112630016, filename: "point_cloud_0307.pcd"}
+  - index: 308
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962848.844500887, filename: "image_0308.png"}
+      - {type: "point_cloud", timestamp: 1424962848.787800064, filename: "point_cloud_0308.pcd"}
+  - index: 309
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962855.643541077, filename: "image_0309.png"}
+      - {type: "point_cloud", timestamp: 1424962855.643540992, filename: "point_cloud_0309.pcd"}
+  - index: 310
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962860.043302800, filename: "image_0310.png"}
+      - {type: "point_cloud", timestamp: 1424962860.043302912, filename: "point_cloud_0310.pcd"}
+  - index: 311
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962871.475059040, filename: "image_0311.png"}
+      - {type: "point_cloud", timestamp: 1424962871.475058944, filename: "point_cloud_0311.pcd"}
+  - index: 312
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962875.878427085, filename: "image_0312.png"}
+      - {type: "point_cloud", timestamp: 1424962875.878426880, filename: "point_cloud_0312.pcd"}
+  - index: 313
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962894.903103709, filename: "image_0313.png"}
+      - {type: "point_cloud", timestamp: 1424962894.903102976, filename: "point_cloud_0313.pcd"}
+  - index: 314
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962900.304305058, filename: "image_0314.png"}
+      - {type: "point_cloud", timestamp: 1424962900.304304896, filename: "point_cloud_0314.pcd"}
+  - index: 315
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962906.738578102, filename: "image_0315.png"}
+      - {type: "point_cloud", timestamp: 1424962906.738577920, filename: "point_cloud_0315.pcd"}
+  - index: 316
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962910.838361386, filename: "image_0316.png"}
+      - {type: "point_cloud", timestamp: 1424962910.838361088, filename: "point_cloud_0316.pcd"}
+  - index: 317
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962916.545482127, filename: "image_0317.png"}
+      - {type: "point_cloud", timestamp: 1424962916.545481984, filename: "point_cloud_0317.pcd"}
+  - index: 318
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962920.948131975, filename: "image_0318.png"}
+      - {type: "point_cloud", timestamp: 1424962920.948132096, filename: "point_cloud_0318.pcd"}
+  - index: 319
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962931.978249122, filename: "image_0319.png"}
+      - {type: "point_cloud", timestamp: 1424962931.947747072, filename: "point_cloud_0319.pcd"}
+  - index: 320
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962936.079419098, filename: "image_0320.png"}
+      - {type: "point_cloud", timestamp: 1424962936.079418880, filename: "point_cloud_0320.pcd"}
+  - index: 321
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962942.981212517, filename: "image_0321.png"}
+      - {type: "point_cloud", timestamp: 1424962942.981211904, filename: "point_cloud_0321.pcd"}
+  - index: 322
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962947.109792964, filename: "image_0322.png"}
+      - {type: "point_cloud", timestamp: 1424962947.076643072, filename: "point_cloud_0322.pcd"}
+  - index: 323
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962952.703366161, filename: "image_0323.png"}
+      - {type: "point_cloud", timestamp: 1424962952.703365888, filename: "point_cloud_0323.pcd"}
+  - index: 324
+    distance: 2
+    info: "p008"
+    acquired:
+      - {type: "image", timestamp: 1424962956.809906654, filename: "image_0324.png"}
+      - {type: "point_cloud", timestamp: 1424962956.809905920, filename: "point_cloud_0324.pcd"}
+  - index: 325
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963046.337446780, filename: "image_0325.png"}
+      - {type: "point_cloud", timestamp: 1424963046.337445888, filename: "point_cloud_0325.pcd"}
+  - index: 326
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963052.570928260, filename: "image_0326.png"}
+      - {type: "point_cloud", timestamp: 1424963052.537679104, filename: "point_cloud_0326.pcd"}
+  - index: 327
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963063.070508774, filename: "image_0327.png"}
+      - {type: "point_cloud", timestamp: 1424963063.070508032, filename: "point_cloud_0327.pcd"}
+  - index: 328
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963072.303787791, filename: "image_0328.png"}
+      - {type: "point_cloud", timestamp: 1424963072.270908928, filename: "point_cloud_0328.pcd"}
+  - index: 329
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963077.511786769, filename: "image_0329.png"}
+      - {type: "point_cloud", timestamp: 1424963077.483289088, filename: "point_cloud_0329.pcd"}
+  - index: 330
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963088.612866664, filename: "image_0330.png"}
+      - {type: "point_cloud", timestamp: 1424963088.612866048, filename: "point_cloud_0330.pcd"}
+  - index: 331
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963094.845997838, filename: "image_0331.png"}
+      - {type: "point_cloud", timestamp: 1424963094.813466880, filename: "point_cloud_0331.pcd"}
+  - index: 332
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963117.969677630, filename: "image_0332.png"}
+      - {type: "point_cloud", timestamp: 1424963117.969677056, filename: "point_cloud_0332.pcd"}
+  - index: 333
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963122.672997004, filename: "image_0333.png"}
+      - {type: "point_cloud", timestamp: 1424963122.672997120, filename: "point_cloud_0333.pcd"}
+  - index: 334
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963136.482984026, filename: "image_0334.png"}
+      - {type: "point_cloud", timestamp: 1424963136.482983936, filename: "point_cloud_0334.pcd"}
+  - index: 335
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963141.112200941, filename: "image_0335.png"}
+      - {type: "point_cloud", timestamp: 1424963141.112200960, filename: "point_cloud_0335.pcd"}
+  - index: 336
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963149.116328731, filename: "image_0336.png"}
+      - {type: "point_cloud", timestamp: 1424963149.116327936, filename: "point_cloud_0336.pcd"}
+  - index: 337
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963154.437880118, filename: "image_0337.png"}
+      - {type: "point_cloud", timestamp: 1424963154.403243008, filename: "point_cloud_0337.pcd"}
+  - index: 338
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963184.580447215, filename: "image_0338.png"}
+      - {type: "point_cloud", timestamp: 1424963184.580446976, filename: "point_cloud_0338.pcd"}
+  - index: 339
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963188.679596941, filename: "image_0339.png"}
+      - {type: "point_cloud", timestamp: 1424963188.679597056, filename: "point_cloud_0339.pcd"}
+  - index: 340
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963195.705094634, filename: "image_0340.png"}
+      - {type: "point_cloud", timestamp: 1424963195.670808064, filename: "point_cloud_0340.pcd"}
+  - index: 341
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963200.410982819, filename: "image_0341.png"}
+      - {type: "point_cloud", timestamp: 1424963200.410982912, filename: "point_cloud_0341.pcd"}
+  - index: 342
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963207.804396142, filename: "image_0342.png"}
+      - {type: "point_cloud", timestamp: 1424963207.804396032, filename: "point_cloud_0342.pcd"}
+  - index: 343
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963213.210999178, filename: "image_0343.png"}
+      - {type: "point_cloud", timestamp: 1424963213.210999040, filename: "point_cloud_0343.pcd"}
+  - index: 344
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963222.536462517, filename: "image_0344.png"}
+      - {type: "point_cloud", timestamp: 1424963222.536462080, filename: "point_cloud_0344.pcd"}
+  - index: 345
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963226.649671135, filename: "image_0345.png"}
+      - {type: "point_cloud", timestamp: 1424963226.649670912, filename: "point_cloud_0345.pcd"}
+  - index: 346
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963237.680786518, filename: "image_0346.png"}
+      - {type: "point_cloud", timestamp: 1424963237.645135104, filename: "point_cloud_0346.pcd"}
+  - index: 347
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963241.977818267, filename: "image_0347.png"}
+      - {type: "point_cloud", timestamp: 1424963241.977818112, filename: "point_cloud_0347.pcd"}
+  - index: 348
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963312.483171656, filename: "image_0348.png"}
+      - {type: "point_cloud", timestamp: 1424963312.483171072, filename: "point_cloud_0348.pcd"}
+  - index: 349
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963316.877920355, filename: "image_0349.png"}
+      - {type: "point_cloud", timestamp: 1424963316.877920000, filename: "point_cloud_0349.pcd"}
+  - index: 350
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963343.238173031, filename: "image_0350.png"}
+      - {type: "point_cloud", timestamp: 1424963343.204510976, filename: "point_cloud_0350.pcd"}
+  - index: 351
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963347.838642903, filename: "image_0351.png"}
+      - {type: "point_cloud", timestamp: 1424963347.838642944, filename: "point_cloud_0351.pcd"}
+  - index: 352
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963355.339589833, filename: "image_0352.png"}
+      - {type: "point_cloud", timestamp: 1424963355.339589888, filename: "point_cloud_0352.pcd"}
+  - index: 353
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963359.570812166, filename: "image_0353.png"}
+      - {type: "point_cloud", timestamp: 1424963359.537164032, filename: "point_cloud_0353.pcd"}
+  - index: 354
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963367.573750292, filename: "image_0354.png"}
+      - {type: "point_cloud", timestamp: 1424963367.573750016, filename: "point_cloud_0354.pcd"}
+  - index: 355
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963371.872043990, filename: "image_0355.png"}
+      - {type: "point_cloud", timestamp: 1424963371.872044032, filename: "point_cloud_0355.pcd"}
+  - index: 356
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963382.002445101, filename: "image_0356.png"}
+      - {type: "point_cloud", timestamp: 1424963382.002445056, filename: "point_cloud_0356.pcd"}
+  - index: 357
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963387.503965318, filename: "image_0357.png"}
+      - {type: "point_cloud", timestamp: 1424963387.503964928, filename: "point_cloud_0357.pcd"}
+  - index: 358
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963396.304603728, filename: "image_0358.png"}
+      - {type: "point_cloud", timestamp: 1424963396.304602880, filename: "point_cloud_0358.pcd"}
+  - index: 359
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963401.710645198, filename: "image_0359.png"}
+      - {type: "point_cloud", timestamp: 1424963401.710644992, filename: "point_cloud_0359.pcd"}
+  - index: 360
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963408.844827747, filename: "image_0360.png"}
+      - {type: "point_cloud", timestamp: 1424963408.810931968, filename: "point_cloud_0360.pcd"}
+  - index: 361
+    distance: 2
+    info: "p009"
+    acquired:
+      - {type: "image", timestamp: 1424963412.948958826, filename: "image_0361.png"}
+      - {type: "point_cloud", timestamp: 1424963412.914365952, filename: "point_cloud_0361.pcd"}
+  - index: 362
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963602.118886035, filename: "image_0362.png"}
+      - {type: "point_cloud", timestamp: 1424963602.118885888, filename: "point_cloud_0362.pcd"}
+  - index: 363
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963609.048656458, filename: "image_0363.png"}
+      - {type: "point_cloud", timestamp: 1424963609.015185920, filename: "point_cloud_0363.pcd"}
+  - index: 364
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963631.884113285, filename: "image_0364.png"}
+      - {type: "point_cloud", timestamp: 1424963631.850158080, filename: "point_cloud_0364.pcd"}
+  - index: 365
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963638.655324902, filename: "image_0365.png"}
+      - {type: "point_cloud", timestamp: 1424963638.655324928, filename: "point_cloud_0365.pcd"}
+  - index: 366
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963658.419485942, filename: "image_0366.png"}
+      - {type: "point_cloud", timestamp: 1424963658.384086016, filename: "point_cloud_0366.pcd"}
+  - index: 367
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963664.525221516, filename: "image_0367.png"}
+      - {type: "point_cloud", timestamp: 1424963664.525221120, filename: "point_cloud_0367.pcd"}
+  - index: 368
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963671.128302357, filename: "image_0368.png"}
+      - {type: "point_cloud", timestamp: 1424963671.128302080, filename: "point_cloud_0368.pcd"}
+  - index: 369
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963696.682559268, filename: "image_0369.png"}
+      - {type: "point_cloud", timestamp: 1424963696.649170944, filename: "point_cloud_0369.pcd"}
+  - index: 370
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963707.593478196, filename: "image_0370.png"}
+      - {type: "point_cloud", timestamp: 1424963707.593477888, filename: "point_cloud_0370.pcd"}
+  - index: 371
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963712.393517860, filename: "image_0371.png"}
+      - {type: "point_cloud", timestamp: 1424963712.393517056, filename: "point_cloud_0371.pcd"}
+  - index: 372
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963728.326187668, filename: "image_0372.png"}
+      - {type: "point_cloud", timestamp: 1424963728.326187008, filename: "point_cloud_0372.pcd"}
+  - index: 373
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963740.529415665, filename: "image_0373.png"}
+      - {type: "point_cloud", timestamp: 1424963740.529414912, filename: "point_cloud_0373.pcd"}
+  - index: 374
+    distance: 2
+    info: "p010"
+    acquired:
+      - {type: "image", timestamp: 1424963752.359965948, filename: "image_0374.png"}
+      - {type: "point_cloud", timestamp: 1424963752.359965952, filename: "point_cloud_0374.pcd"}
