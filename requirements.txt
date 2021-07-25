@@ -1,0 +1,12 @@
+ply==3.11
+open3d==0.13.0
+opencv-python==4.5.2.52
+opencv-python-headless==4.5.1.48
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1598113097404/work
+Pillow==8.2.0
+pkginfo==1.6.1
+pluggy==0.13.1
+ply==3.11
+plyfile==0.7.3
+prometheus-client==0.8.0
+promise==2.3
