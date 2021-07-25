@@ -1,0 +1,6 @@
+.idea
+.venv
+/segmented_fallen_people/
+/raw/
+/__pycache__/
+/.DS_Store
